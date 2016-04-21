@@ -1,0 +1,26 @@
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheSinFreq.csprojResolveAssemblyReference.cache
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\MainWindow.g.cs
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\App.g.cs
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\MainWindow.baml
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheSinFreq.Properties.Resources.resources
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheSinFreq.csproj.GenerateResource.Cache
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\bin\Debug\GuessTheFreq.exe
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\bin\Debug\GuessTheFreq.pdb
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq_MarkupCompile.cache
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq_MarkupCompile.lref
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq.g.resources
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq.exe
+c:\users\mastermind\documents\visual studio 2015\Projects\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq.pdb
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq.exe
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq.pdb
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\bin\Debug\GuessTheFreq.exe
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\bin\Debug\GuessTheFreq.pdb
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheSinFreq.csprojResolveAssemblyReference.cache
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\MainWindow.g.cs
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\App.g.cs
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq_MarkupCompile.cache
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq_MarkupCompile.lref
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\MainWindow.baml
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheFreq.g.resources
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheSinFreq.Properties.Resources.resources
+C:\Dropbox\!Coding\All_in_one\GuessTheSinFreq\GuessTheSinFreq\obj\Debug\GuessTheSinFreq.csproj.GenerateResource.Cache
